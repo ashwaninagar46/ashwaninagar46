@@ -8,7 +8,7 @@
 ## 💫 About Me
 
 - 🎓 Pursuing a career in **Data Analytics**
-- 🌱 Currently learning **Power BI**, **Advanced Excel**, and **SQL Joins**
+- 🌱 Currently learning **python**, **Excel**, and **SQL Joins**
 - 🔍 Interested in Data Visualization and Dashboarding
 - 🤝 Open to collaboration on real-world data projects
 
