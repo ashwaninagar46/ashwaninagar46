@@ -34,7 +34,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/ashwani-nagar-/)
+[![LinkedIn](https://www.linkedin.com/in/ashwaninagar46/)
 
 ---
 
